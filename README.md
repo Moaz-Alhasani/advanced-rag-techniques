@@ -201,24 +201,6 @@ data/
 
 ---
 
-# 📁 Project Structure
-
-```text
-Financial-RAG-Intelligence/
-│
-├── data/
-│   └── microsoft-annual-report.pdf
-│
-├── hyde_approach.py
-├── multi_query_approach.py
-├── advanced_reranking_approach.py
-│
-├── .env
-├── requirements.txt
-└── README.md
-```
-
----
 
 # 📈 Embedding Visualization
 
